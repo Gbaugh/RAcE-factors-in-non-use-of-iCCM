@@ -1,0 +1,15 @@
+
+q001 (Y=2707) Are there any children two months to five years old in this household?
+q002 (Y=2703, N=4) Are you the caregiver of any of the children two months to under five years old?
+q003 (Y=2677, N=30) Are you the caregiver of all children two months to five years old in this household?
+q004 (One=5, Two=22, Three=3, NA=2677) How many other caregivers of children two months to five years old are there?
+
+q109ch
+q109cg No child with diarrhea Caregiver's name
+q110ch
+q110cg Caregiver's name
+q111ch No child with fast breathing
+q111cg Caregiver's name
+
+hhid household id
+Caregiver's number
