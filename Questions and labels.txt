@@ -13,3 +13,13 @@ q111cg Caregiver's name
 
 hhid household id
 Caregiver's number
+<<<<<<< Updated upstream
+=======
+
+q501 (dx in km) How far are you from the nearest health facility? 
+q502 (Options 1:6) How do you get there?
+q503 (time in minutes) How long does it take to get there (one-way)?
+q504 Are there any Health Surveillance Assistants (HSAs) in your community?
+q505 What kind of work do the HSAs do in your community?
+q506 (Y=2322, N=300, DK=85) Can you tell me the location where the HSA provides treatment for sick children?
+>>>>>>> Stashed changes
